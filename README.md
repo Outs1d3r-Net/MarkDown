@@ -4,9 +4,7 @@ Este é o resultado do curso que realizei na **udemy** de _markdown_, o curso é
 > https://www.udemy.com/course/aprenda-markdown/
 
 ## Emojins
-:smile:  
-:bowtie:  
-:metal:
+:smile: :bowtie: :metal:
 
 Titulo 3
 -
