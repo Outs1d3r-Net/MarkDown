@@ -1,9 +1,12 @@
-Titulo 1
-= Este é o resultado do curso que realizei na **udemy** de _markdown_, o curso é gratis não perca tempo ! 
+# Titulo 1
+
+Este é o resultado do curso que realizei na **udemy** de _markdown_, o curso é gratis não perca tempo ! 
 > https://www.udemy.com/course/aprenda-markdown/
 
 ## Emojins
-:smile:
+:smile:  
+:bowtie:  
+:metal:
 
 Titulo 3
 -
