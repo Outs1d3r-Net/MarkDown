@@ -1,4 +1,5 @@
 # Titulo 1
+[![Banner](https://miro.medium.com/max/815/0*_Sk12T9Yn5ch4StY.png)](https://daringfireball.net/projects/markdown/)
 
 Este é o resultado do curso que realizei na **udemy** de _markdown_, o curso é gratis não perca tempo ! 
 > [Curso de MarkDown](https://www.udemy.com/course/aprenda-markdown/ "Clique aqui para o Curso de MarkDown.")
@@ -25,8 +26,20 @@ Isso devido as configuracoes realizadas aqui.
 1. Segundo item
 1. Terceiro item
 
-#### Meus links
+#### Tabelas
+| Linguagem | Valor | Nivel |
+|:-----|:---:|-----:|
+| Markdown | s2 |  Very Easy|
+| Html | s2 | Easy |
 
+#### Codigos & Highlighting
+`` const markdown = `I love ${markdown}`; ``  
+
+```javascript
+// Codigo de programação
+const markdown = 'MARKDOWN';
+alert(markdown);
+```
 
 ###### Titulo 6
 Este é o meu segundo paragrafo.  
